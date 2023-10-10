@@ -1,7 +1,7 @@
 # miscellaneous-gmod-stuff
-# WARNING, I may have misplaced some scripts
+**WARNING, I may have misplaced some scripts**
 
-An archive of leme's miscellaneous-gmod-stuff repo, Has many cool things.
+An archive of leme's miscellaneous-gmod-stuff, proxi-stuff-main & meth_tools repo
 
 I am not maintaining these scripts, so please do not open issues on this repository
 
