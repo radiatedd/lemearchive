@@ -1,8 +1,5 @@
 --[[
-		made by: leme
-		archived by 0x59
-		original comment text lost
-		love ya leme, keep doing what you do.
+LeVisuals
 		
 --------------------------- script starts here, enjoy. ---------------------------
 	Menu command:
